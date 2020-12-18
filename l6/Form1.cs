@@ -37,5 +37,10 @@ namespace l6
         {
             System.Diagnostics.Process.Start("https://press18.ru/kontakty/");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
