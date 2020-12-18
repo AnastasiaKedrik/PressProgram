@@ -59,6 +59,7 @@
             this.pictureBox1.Size = new System.Drawing.Size(717, 207);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // label2
             // 
@@ -78,6 +79,7 @@
             this.pictureBox2.Size = new System.Drawing.Size(717, 202);
             this.pictureBox2.TabIndex = 3;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // label3
             // 
@@ -97,6 +99,7 @@
             this.pictureBox3.Size = new System.Drawing.Size(717, 202);
             this.pictureBox3.TabIndex = 5;
             this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // backbtn
             // 
@@ -106,6 +109,7 @@
             this.backbtn.TabIndex = 6;
             this.backbtn.Text = "Назад";
             this.backbtn.UseVisualStyleBackColor = true;
+            this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
             // 
             // FormKatalog
             // 
