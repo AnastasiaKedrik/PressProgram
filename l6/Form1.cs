@@ -40,7 +40,9 @@ namespace l6
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            FormKatalog f1 = new FormKatalog();
+            this.Hide();
+            f1.Show();
         }
     }
 }

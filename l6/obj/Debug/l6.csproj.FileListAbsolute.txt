@@ -8,3 +8,4 @@ G:\lb\l6\bin\Debug\l6.pdb
 G:\lb\l6\obj\Debug\l6.exe
 G:\lb\l6\obj\Debug\l6.pdb
 G:\lb\l6\obj\Debug\l6.Form1.resources
+G:\lb\l6\obj\Debug\l6.FormKatalog.resources
