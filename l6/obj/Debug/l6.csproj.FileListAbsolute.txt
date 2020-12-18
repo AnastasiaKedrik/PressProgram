@@ -1,0 +1,10 @@
+G:\lb\l6\obj\Debug\l6.csprojAssemblyReference.cache
+G:\lb\l6\obj\Debug\l6.Properties.Resources.resources
+G:\lb\l6\obj\Debug\l6.csproj.GenerateResource.cache
+G:\lb\l6\obj\Debug\l6.csproj.CoreCompileInputs.cache
+G:\lb\l6\bin\Debug\l6.exe.config
+G:\lb\l6\bin\Debug\l6.exe
+G:\lb\l6\bin\Debug\l6.pdb
+G:\lb\l6\obj\Debug\l6.exe
+G:\lb\l6\obj\Debug\l6.pdb
+G:\lb\l6\obj\Debug\l6.Form1.resources
